@@ -1,3 +1,3 @@
-    # Primeiro Projeto
+# Primeiro Projeto
 
-    projeto Utilizado em Atividade pRÁTICA
+projeto Utilizado em Atividade pRÁTICA
